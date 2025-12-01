@@ -1,0 +1,7 @@
+{
+  "name": "todo-app-simple",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
